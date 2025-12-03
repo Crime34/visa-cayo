@@ -41,7 +41,7 @@ L’objectif principal est de proposer un **outil fiable, simple d’utilisation
 1. **Cloner le dépôt :**
 
 ```
-git clone https://github.com/tonpseudo/visa-cayo.git
+git clone https://github.com/Crime34/visa-cayo.git
 ```
 
 2. **Déplacer le projet dans le dossier du serveur web** (htdocs, www, etc.)
