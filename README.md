@@ -29,10 +29,8 @@ L’objectif principal est de proposer un **outil fiable, simple d’utilisation
 
 ## **Fonctionnalités**
 
-* **Formulaire de demande de visa en ligne**
-* **Enregistrement des candidatures**
+* **Enregistrement des visas**
 * **Interface d’administration**
-* **Validation ou refus des demandes**
 * **Sécurisation minimale des données**
 * **Système adaptable à tous types de serveurs RP**
 
